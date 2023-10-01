@@ -75,7 +75,7 @@ main .personagem .imagem {
     width: 180px;
     align-items: center;
     gap: 10px;
-    background-color: rgba(0, 0, 0, 0.3));
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 .botoes .botao {
